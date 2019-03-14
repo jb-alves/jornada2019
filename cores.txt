@@ -1,0 +1,3 @@
+rgba(38, 48, 86, 0.8) - blue depths (trans)
+FF6F61-living coral
+263056-blue depths
